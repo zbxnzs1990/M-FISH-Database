@@ -1,0 +1,2 @@
+# M-FISH-Database
+J. Li, D. Lin, H. Cao, and Y. Wang, An improved sparse representation model with structural information for Multicolour Fluorescence In-Situ Hybridization (M-FISH) image classification, BMC Systems Biology, 2013, 7(4):S5 doi:10.1186/1752-0509-7-S4-S5  H. Cao, H. Deng, Marilyn Li and, Y. Wang, Classification of Multicolor Fluorescence In-situ Hybridization (M-FISH) Images with Sparse Representation, IEEE Trans. Nanobioscience, 11(2):111-118, Jun. 2012.
